@@ -1,0 +1,42 @@
+Greetings, and welcome to the Microsoft Fiscal Year 2023 Fourth Quarter Earnings Conference Call. [Operator Instructions].
+
+I would now like to turn the conference over to your host, Brett Iversen, Vice President of Investor Relations. Mr. Iversen, please go ahead.
+
+Brett Iversen
+
+Good afternoon, and thank you for joining us today in Palo Alto (California). On the call with me are Satya Nadella, Chairman and Chief Executive Officer; Amy Hood, Chief Financial Officer; Alice Jolla, Chief Accounting Officer; and Keith Dolliver, Deputy General Counsel.
+
+On the Microsoft Investor Relations website, you can find our earnings press release and financial summary slide deck, which is intended to supplement our prepared remarks during today's call and provides the reconciliation of differences between GAAP and non-GAAP financial measures. More detailed outlook slides will be available on the Microsoft Investor Relations website when we provide outlook commentary on today's call.
+
+We have great momentum across Azure OpenAI Service. More than 11,000 organizations across industries, including IKEA, Volvo Group, Zurich Insurance, as well as digital natives like Flipkart, Humane, Kahoot, Miro, Typeface, use the service. That's nearly 100 new customers added every day this quarter. Mercedes-Benz, for example, is bringing ChatGPT via Azure OpenAI to more than 900,000 vehicles in the United States, making its in-car voice assistant more intuitive. And Moody's built its own internal copilot to improve productivity of its 14,000 employees.
+
+We're also partnering broadly to scale this next generation of AI to more customers. Snowflake, for example, will increase its Azure spend as it builds new integrations with Azure OpenAI. And KPMG has announced a multibillion-dollar commitment to our cloud and AI services to transform professional services.
+
+Brett Iversen <has_position> Vice President of Investor Relations
+Satya Nadella <has_position> Chairman and Chief Executive Officer
+Amy Hood <has_position> Chief Financial Officer
+Alice Jolla <has_position> Chief Accounting Officer
+Keith Dolliver <has_position> Deputy General Counsel
+
+Brett Iversen <works_at> Microsoft
+Satya Nadella <works_at> Microsoft
+Amy Hood <works_at> Microsoft
+Alice Jolla <works_at> Microsoft
+Keith Dolliver <works_at> Microsoft
+
+Microsoft <is_a> Company
+IKEA <is_a> Company
+Volvo Group <is_a> Company
+Zurich Insurance <is_a> Company
+Flipkart <is_a> Company
+Humane <is_a> Company
+Kahoot <is_a> Company
+Miro <is_a> Company
+Typeface <is_a> Company
+Mercedes-Benz <is_a> Company
+Moody's <is_a> Company
+Snowflake <is_a> Company
+KPMG  <is_a> Company
+
+Palo Alto (California) <is_a> Place
+United States <is_a> Place
